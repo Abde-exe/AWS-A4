@@ -1,0 +1,10 @@
+{
+  "resourceName": "myDatabase",
+  "tableName": "myTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
